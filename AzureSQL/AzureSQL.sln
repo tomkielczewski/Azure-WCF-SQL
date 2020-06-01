@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureSQL", "AzureSQL\AzureSQL.ccproj", "{F48659E5-E9C4-40BA-9258-90E7D374A521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{D25B1A39-10E2-4B0D-BD8E-FEA5D361EDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48659E5-E9C4-40BA-9258-90E7D374A521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48659E5-E9C4-40BA-9258-90E7D374A521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48659E5-E9C4-40BA-9258-90E7D374A521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48659E5-E9C4-40BA-9258-90E7D374A521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25B1A39-10E2-4B0D-BD8E-FEA5D361EDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25B1A39-10E2-4B0D-BD8E-FEA5D361EDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25B1A39-10E2-4B0D-BD8E-FEA5D361EDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25B1A39-10E2-4B0D-BD8E-FEA5D361EDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B6D80E-35F4-4769-AEF5-4CE0AD0FAC08}
+	EndGlobalSection
+EndGlobal
