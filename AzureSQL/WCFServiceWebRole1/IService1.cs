@@ -18,8 +18,8 @@ namespace WCFServiceWebRole1
         [OperationContract]
         Guid Login(string login, string password);
 
-        //[OperationContract]
-        //bool Logout(string login);
+        [OperationContract]
+        bool Logout(string login);
 
         //[OperationContract]
         //bool Put(string name, string content, Guid sessionId);
