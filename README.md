@@ -1,2 +1,2 @@
 # Azure-WCF-SQL
-Exercise servis 
+Exercise service
